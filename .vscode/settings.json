@@ -1,0 +1,10 @@
+{
+  "jupyter.jupyterServerType": "local",
+  "files.associations": {
+    "random": "cpp"
+  },
+  "files.exclude": {
+    "node_modules": true,
+    "**/*.o":true,
+  }
+}
